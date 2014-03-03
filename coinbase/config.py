@@ -2,8 +2,8 @@ __author__ = 'gsibble'
 
 COINBASE_ENDPOINT = 'https://coinbase.com/api/v1'
 
-COINBASE_AUTH_URI = 'https://www.coinbase.com/oauth/authorize'
-COINBASE_TOKEN_URI = 'https://www.coinbase.com/oauth/token'
+COINBASE_AUTH_URI = 'https://coinbase.com/oauth/authorize'
+COINBASE_TOKEN_URI = 'https://coinbase.com/oauth/token'
 
 
 TEMP_CREDENTIALS = '''
